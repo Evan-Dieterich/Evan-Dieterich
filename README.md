@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Dieterich</h1>
 <h3 align="center">I'm a Phoenix, AZ based Full Stack Web Developer. I am near completion of a full stack web developer program at BloomTech. As a problem solver who loves facing challenges in my work, I'm excited to be at the development phase of my career as a web developer. I'm currently looking for new developer opportunities!</h3>
 
-- 🔭 I’m currently working on a [productivity tracking app](https://github.com/Evan-Dieterich/ProductivityTracker)
+- 🔭 I’m currently working on a [Childrens Learning Application](https://github.com/BloomTech-Labs/scribble-stadium-fe)
 
 - 🌱 I’m currently learning **data structures and algorithms, Next.js, and refining my JS skills!**
 
