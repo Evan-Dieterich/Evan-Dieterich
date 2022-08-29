@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **evan.dieterich.az@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Vm2OvmfhjJMjqBHIMkA3-PbLwdDV59XQUSoa5zkGFaw/edit?usp=sharing](https://docs.google.com/document/d/1Vm2OvmfhjJMjqBHIMkA3-PbLwdDV59XQUSoa5zkGFaw/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evan dieterich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan dieterich" height="30" width="40" /></a>
