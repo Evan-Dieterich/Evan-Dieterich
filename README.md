@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/evan-dieterich/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan dieterich" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/evanbla1ne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="evanbla1ne" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
