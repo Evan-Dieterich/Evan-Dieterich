@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evan Dieterich</h1>
 <h3 align="center">I'm a Phoenix, AZ based Data Analyst. I am a college graduate with a passion for answering complex questions through the power of data! As a problem solver who loves facing challenges in my work, . I'm currently looking for new analyst opportunities!</h3>
 
-- 🔭 I’m currently working on a [SQL recognized revenue calc for monthly and annual subscriptions](https://github.com/BloomTech-Labs/scribble-stadium-fe)
+- 🔭 I’m currently working on a [SQL recognized revenue calc for monthly and annual subscriptions](https://github.com/Evan-Dieterich/recognized-revenue-monthly-calculator)
 
 - 🌱 I’m currently learning **SQL window functions, recursive CTEs, and data structures and algorithms!**
 
