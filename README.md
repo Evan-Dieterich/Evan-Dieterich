@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan Dieterich</h1>
-<h3 align="center">I'm a Phoenix, AZ based Data Analyst and college graduate with a knack for answering complex questions through the power of data! As a problem solver who loves facing challenges, manipulating and analyzing data has quickly become a passion of mine. I'm currently looking for new analyst opportunities!</h3>
+<h3 align="center">I'm a Phoenix, AZ based Data Conversion Engineer and college graduate with a knack for answering complex questions through the power of data! As a problem solver who loves facing challenges, manipulating and analyzing data has quickly become a passion of mine. I'm currently looking for new analyst opportunities!</h3>
 
 - 🔭 I’m currently working on a [SQL recognized revenue calc for monthly and annual subscriptions](https://github.com/Evan-Dieterich/recognized-revenue-monthly-calculator)
 
